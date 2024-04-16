@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Cloud.data.unityweb",
+"asmCodeUrl": "Cloud.asm.code.unityweb",
+"asmMemoryUrl": "Cloud.asm.memory.unityweb",
+"asmFrameworkUrl": "Cloud.asm.framework.unityweb",
+"backgroundUrl": "Cloud.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
